@@ -8,6 +8,40 @@ Faker requires PHP >= 5.3.3.
 
 [![Monthly Downloads](https://poser.pugx.org/fzaninotto/faker/d/monthly.png)](https://packagist.org/packages/fzaninotto/faker) [![Build Status](https://secure.travis-ci.org/fzaninotto/Faker.png)](http://travis-ci.org/fzaninotto/Faker) [![SensioLabsInsight](https://insight.sensiolabs.com/projects/eceb78a9-38d4-4ad5-8b6b-b52f323e3549/mini.png)](https://insight.sensiolabs.com/projects/eceb78a9-38d4-4ad5-8b6b-b52f323e3549)
 
+# Table of Contents
+
+- [Installation](#installation)
+- [Basic Usage](#basic-usage)
+- [Formatters](#formatters)
+	- [Base](#fakerproviderbase)
+	- [Lorem Ipsum Text](#fakerproviderlorem)
+	- [Person](#fakerprovideren_usperson)
+	- [Address](#fakerprovideren_usaddress)
+	- [Phone Number](#fakerprovideren_usphonenumber)
+	- [Company](#fakerprovideren_uscompany)
+	- [Real Text](#fakerprovideren_ustext)
+	- [Date and Time](#fakerproviderdatetime)
+	- [Internet](#fakerproviderinternet)
+	- [User Agent](#fakerprovideruseragent)
+	- [Payment](#fakerproviderpayment)
+	- [Color](#fakerprovidercolor)
+	- [File](#fakerproviderfile)
+	- [Image](#fakerproviderimage)
+	- [Uuid](#fakerprovideruuid)
+	- [Barcode](#fakerproviderbarcode)
+	- [Miscellaneous](#fakerprovidermiscellaneous)
+	- [Biased](#fakerproviderbiased)
+- [Unique and Optional modifiers](#unique-and-optional-modifiers)
+- [Localization](#localization)
+- [Populating Entities Using an ORM or an ODM](#populating-entities-using-an-orm-or-an-odm)
+- [Seeding the Generator](#seeding-the-generator)
+- [Faker Internals: Understanding Providers](#faker-internals-understanding-providers)
+- [Real Life Usage](#real-life-usage)
+- [Language specific formatters](#language-specific-formatters)
+- [Third-Party Libraries Extending/Based On Faker](#third-party-libraries-extendingbased-on-faker)
+- [License](#license)
+
+
 ## Installation
 
 ```sh
@@ -735,6 +769,14 @@ echo $faker->formattedDate; // "12. listopadu 2015"
 
 ```
 
+### `Faker\Provider\cs_CZ\Person`
+```php
+<?php
+
+echo $faker->birthNumber; // "7304243452"
+
+```
+
 ### `Faker\Provider\da_DK\Person`
 
 ```php
@@ -1042,6 +1084,7 @@ echo $faker->cityName;
 * [xml-faker](https://github.com/prewk/xml-faker): Create fake XML with Faker
 * [faker-context](https://github.com/denheck/faker-context): Behat context using Faker to generate testdata
 * [CronExpressionGenerator](https://github.com/swekaj/CronExpressionGenerator): Faker provider for generating random, valid cron expressions.
+* [pragmafabrik/Pomm2Faker](https://github.com/pragmafabrik/Pomm2Faker): Faker client for Pomm ORM (PostgreSQL)
 
 ## License
 
