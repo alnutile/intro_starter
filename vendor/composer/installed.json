@@ -1674,12 +1674,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/Seldaek/monolog.git",
-            "reference": "6d9062594ceee4e96baf6b8bf6f7d4a216d82e20"
+            "reference": "66532794b0dcb5cd77ee86884cc9d9ccb5e80549"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/Seldaek/monolog/zipball/6d9062594ceee4e96baf6b8bf6f7d4a216d82e20",
-            "reference": "6d9062594ceee4e96baf6b8bf6f7d4a216d82e20",
+            "url": "https://api.github.com/repos/Seldaek/monolog/zipball/66532794b0dcb5cd77ee86884cc9d9ccb5e80549",
+            "reference": "66532794b0dcb5cd77ee86884cc9d9ccb5e80549",
             "shasum": ""
         },
         "require": {
@@ -1713,7 +1713,7 @@
             "ruflin/elastica": "Allow sending log messages to an Elastic Search server",
             "videlalvaro/php-amqplib": "Allow sending log messages to an AMQP server using php-amqplib"
         },
-        "time": "2015-07-12 10:36:03",
+        "time": "2015-07-12 10:55:38",
         "type": "library",
         "extra": {
             "branch-alias": {
@@ -3031,19 +3031,19 @@
         "source": {
             "type": "git",
             "url": "https://github.com/alnutile/l5scaffold.git",
-            "reference": "341907a5475c56d45485dad12c61c1bba35c6771"
+            "reference": "6efdd5887185d305a0009e8e42fb394cec44f819"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/alnutile/l5scaffold/zipball/341907a5475c56d45485dad12c61c1bba35c6771",
-            "reference": "341907a5475c56d45485dad12c61c1bba35c6771",
+            "url": "https://api.github.com/repos/alnutile/l5scaffold/zipball/6efdd5887185d305a0009e8e42fb394cec44f819",
+            "reference": "6efdd5887185d305a0009e8e42fb394cec44f819",
             "shasum": ""
         },
         "require": {
             "illuminate/support": "~5.0",
             "php": ">=5.4.0"
         },
-        "time": "2015-07-12 10:49:43",
+        "time": "2015-07-12 11:35:42",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
