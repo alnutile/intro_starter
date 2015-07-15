@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9afee4d9-1925-4fb5-b8ff-fcad67ede2a9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/als_planb/layout.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webResources.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/if_more_time/angular.blade.php" afterPath="$PROJECT_DIR$/resources/views/als_planb/angular.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/views/messages.blade.php" afterPath="$PROJECT_DIR$/resources/views/als_planb/messages.blade.php" />
     </list>
     <ignored path="intro_starter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="layout.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/als_planb/layout.blade.php">
+      <file leaf-file-name="ExampleTest.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/ExampleTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39679065" vertical-offset="0" max-vertical-offset="1371">
-              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -64,10 +61,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1097" />
     <option name="y" value="23" />
-    <option name="width" value="1436" />
-    <option name="height" value="1406" />
+    <option name="width" value="1276" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -121,11 +117,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -237,6 +269,128 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="factories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="intro_starter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exceptions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -247,6 +401,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -255,6 +410,9 @@
       <recent name="$PROJECT_DIR$/resources/views/if_more_time" />
       <recent name="$PROJECT_DIR$/resources/views" />
       <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/als_planb" />
     </key>
   </component>
   <component name="RunManager">
@@ -272,16 +430,15 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
-      <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -297,7 +454,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1097" y="23" width="1436" height="1406" extended-state="0" />
+    <frame x="0" y="23" width="1276" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -308,7 +465,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3293872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -335,79 +492,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/views/als_planb/layout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="935">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+          <folding>
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laralib/l5scaffold/src/Migrations/SyntaxBuilder.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="5174" max-vertical-offset="6545">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Class SyntaxBuilder with modifications by Fernando ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" A template to be inserted. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Create the PHP syntax for the given schema. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Create the schema for the &quot;up&quot; method. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Construct the syntax for a down field. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Store the given template, to be inserted somewhere. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Get the stored template, and insert into the given wrapper. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Get the wrapper template for a &quot;create&quot; action. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Get the wrapper template for an &quot;add&quot; action. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Construct the schema fields. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Construct the syntax to add a column. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Construct the syntax to drop a column. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Construct the controller fields ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Construct the view fields ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -415,7 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19653179" vertical-offset="0" max-vertical-offset="1384">
           <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -423,7 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.037527595" vertical-offset="0" max-vertical-offset="1359">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -431,7 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.68786126" vertical-offset="1530" max-vertical-offset="3485">
           <caret line="146" column="54" selection-start-line="146" selection-start-column="54" selection-end-line="146" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -439,7 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2907">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -447,74 +547,67 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.7738876" vertical-offset="5174" max-vertical-offset="6545">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/als_planb/layout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47304583" vertical-offset="193" max-vertical-offset="935">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
           <folding>
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Class SyntaxBuilder with modifications by Fernando ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" A template to be inserted. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Create the PHP syntax for the given schema. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Create the schema for the &quot;up&quot; method. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Construct the syntax for a down field. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Store the given template, to be inserted somewhere. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Get the stored template, and insert into the given wrapper. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Get the wrapper template for a &quot;create&quot; action. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Get the wrapper template for an &quot;add&quot; action. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Construct the schema fields. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Construct the syntax to add a column. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Construct the syntax to drop a column. ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Construct the controller fields ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder=" Construct the view fields ..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1436700942000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1436975589000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1436975589000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/vendor/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/als_planb/messages.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65298015" vertical-offset="0" max-vertical-offset="755">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -524,40 +617,38 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1384">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1435775405000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435775405000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435775405000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435775405000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1435775405000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1435775405000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1435775405000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1435775405000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1435775405000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435775405000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435775405000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/messages.blade.php">
+    <entry file="file://$PROJECT_DIR$/database/factories/ModelFactory.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35621387" vertical-offset="0" max-vertical-offset="1384">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1435331291000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435331291000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435331291000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435331291000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435331291000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1435331291000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1436975589000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/als_planb/layout.blade.php">
+    <entry file="file://$PROJECT_DIR$/tests/ExampleTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39679065" vertical-offset="0" max-vertical-offset="1371">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="755">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
