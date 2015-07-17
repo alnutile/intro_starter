@@ -25,3 +25,7 @@
     </div>
 
 @endsection
+
+<!-- move into layout -->
+{{--<script src="/js/angular.js"></script>--}}
+{{--<script src="/js/app.js"></script>--}}
